@@ -1,7 +1,23 @@
-# demo 
+# ![Project Logo](C:\Users\Luca Faccioli\OneDrive - Politecnico di Milano\Desktop\J.AR.V.I.S\GUI\frame_00_delay-0.04s.jpg) Project Name
 
-some description!
+## Key Features
+- Feature 1
+- Feature 2
+- Feature 3
+- Feature 4
 
-some other change
+## How to Use
+To use this project, follow these steps:
 
-feature branch or something
+```bash
+# Clone the repository
+git clone https://github.com/username/repository-name.git
+
+# Navigate to the project directory
+cd repository-name
+
+# Install dependencies
+npm install
+
+# Start the project
+npm start
