@@ -1,4 +1,4 @@
-# ![Project Logo](C:\Users\Luca Faccioli\OneDrive - Politecnico di Milano\Desktop\J.AR.V.I.S\GUI\frame_00_delay-0.04s.jpg) Project Name
+# ![Project Logo](C:\Users\Luca Faccioli\OneDrive - Politecnico di Milano\Desktop\download.jpg) Project Name
 
 ## Key Features
 - Feature 1
